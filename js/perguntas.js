@@ -1,19 +1,19 @@
 const perguntas = [
     {
-        enunciado: "pergunta 1", 
+        enunciado: "Você prefere suco de morango ou de limão?", 
         alternativas: [
             {
-                texto: "afirmativa 1",
+                texto: "morango",
                 afirmação: [
-                    "afirmação 1",
-                    "afirmação 2"
+                    "todos te zoam de você pois suco de limão é melhor",
+                    "você tem gosto ruim"
                 ],
             },
            {
-                texto: "afirmativa 1",
+                texto: "morango",
                 afirmação: [
-                    "afirmação 1",
-                    "afirmação 2"
+                    "todos te zoam de você pois suco de limão é melhor",
+                    "você tem gosto ruim"
                 ],
             }
         ]
